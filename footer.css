@@ -1,0 +1,97 @@
+footer{
+    background-color:  rgb(245, 235, 220);
+    
+}
+
+.scanner_img{
+    width: 450.13px;
+    height: 431.2px;
+    padding-left: 59.178px;
+    padding-right: 59.178px;
+    padding-bottom: 40px;
+    
+}
+.footer_container h2{
+    color: rgb(80, 35, 20);
+    font-family: "Flame Bold";
+    line-height: 54px;
+    font-size: 48px;
+    margin: 0;
+}
+.social_icons button{
+    width: 187.93px;
+    height: 53.89px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+.footer_container p{
+    font-family: "Flame Sans";
+    line-height: 24px;
+    color: rgb(80, 35, 20);
+    font-size: 14px;
+}
+.footer_container{
+    padding-right: 40px;
+    padding-left: 200px;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.04);
+    
+}.footer_right{
+    padding-top: 59.138px;
+    padding-right: 138.178px;
+    padding-bottom: 40px;
+}
+
+
+/* ----------footer end part------------- */
+.footer_end p {
+    font-family: "Flame Sans";
+    font-size: 12px;
+    line-height: 24px;
+    color: rgb(245, 235, 220);
+    margin: 0;
+
+}
+.footer_p{
+    color: rgb(245, 235, 220);
+    font-family: "Flame Sans";
+    font-size: 12px;
+    line-height: 24px;
+}
+.footer_end{
+    height: 56px;
+    background-color: rgb(80, 35, 20);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 64px;
+    
+}
+/* ------------footer menu-------------- */
+.footer_menu img{
+    width: 20px;
+    height: 20px;
+    display: block;
+
+}
+.footer_menu{
+    display: flex;
+    justify-content: space-around;
+    height: 64px;
+    background-color: rgb(245, 235, 220);
+    text-align: center;
+    text-align: -webkit-center;
+    align-items: center;
+    cursor: pointer;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 10;
+    
+}
+.footer_menu a{
+    text-decoration: none;
+
+}
